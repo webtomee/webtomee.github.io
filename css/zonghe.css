@@ -657,7 +657,7 @@ input, select, textarea, .textarea_style{border:1px solid #dcdcdc;}
 /*zpz*/
 .time_zz{width:998px; float:left; margin:16px 0;}
 .time_nei{ width:998px;text-align:center; }
-.time_zz a{ text-align:center; font-size:12px; color:#333; line-height:20px;   padding:3px 8px;}
+.time_zz a{ text-align:center; font-size:29px; color:#ff1313; line-height:20px;   padding:3px 8px;}
 .time_zz a:hover{ color:#fff; background:#377bee;}
 .time_nei .blue{ background:#377bee; color:#fff;}
 
